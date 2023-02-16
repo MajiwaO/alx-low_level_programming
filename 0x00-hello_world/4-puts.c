@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main -Entry point
+ * main - A program that prints output using puts
  * Reeturn : 0 (success);
  */
 int main(void)
